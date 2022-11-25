@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home2"
+        android:title="  Home"
+        android:icon="@drawable/icons_home"/>
+
+    <item android:id="@+id/nav_donate2"
+        android:icon="@drawable/help_hand"
+        android:title="  Donate"
+        />
+    <item android:id="@+id/nav_volunteer2"
+        android:title="  Volunteer"
+        android:icon="@drawable/icons_volunteer"/>
+    
+    <item android:id="@+id/nav_aboutUs"
+        android:title="  About us"
+        android:icon="@drawable/icons_information"/>
+
+    <item android:id="@+id/nav_logout"
+        android:title="  Logout"
+        android:icon="@drawable/icons_logout"/>
+</menu>
